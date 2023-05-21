@@ -1,1 +1,1 @@
-# Core_Java_Codes
+After Fully Completion Of Core Java Module I have tried to create Vehicle Managment Application using ARRAYLIST & Banking application using HASHMAP  in which I have used all concepts whatever I have learned in our module and Implemented all concepts whatever we have learn i.e ENUM, EXCEPTION HANDLING, SERIALIZATION, DESERIALIZAITON, VALIDATION.
